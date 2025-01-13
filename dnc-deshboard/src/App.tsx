@@ -9,7 +9,7 @@ function App() {
         <Route path="/cadastro"element={<Registration/>}></Route>
         <Route path="/home"element={<Home/>}></Route>
         <Route path="/leads"element={<Leads/>}></Route>
-        <Route path="/Profile"element={<Profile/>}></Route>
+        <Route path="/Profile"element={<Profile/>}></Route>1
       </Routes>
     </Router>
   )
